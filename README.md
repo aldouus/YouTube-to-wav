@@ -1,3 +1,7 @@
+### Operating Systems
+
+Tested on `MacOS`
+
 ### Dependencies
 
 - `Python ^3.12.0`
