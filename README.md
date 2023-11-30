@@ -1,6 +1,8 @@
 ### Operating Systems
 
-Tested on `MacOS`
+- ✅ MacOS
+- ❌ Windows
+- ✅ Linux (not tested)
 
 ### Dependencies
 
@@ -8,11 +10,15 @@ Tested on `MacOS`
 
 ### How to install:
 
-|| Steps:|
-|---:|:---|
-|1.|`pip install yt-dlp`|
-|2.|`pip install zenity`|
-|3.| Run the `YouTube to wav.sh` file|
-|4.| Paste a **Youtube / Youtube Music URL** in the pop-up window and hit "OK"|
+1. Install the `yt-dlp` package
+
+        pip install yt-dlp
+  
+2. Install the `zenity` package
+
+        pip install zenity
+
+Run the `Youtube to wav.sh` file
+Paste a **Youtube / Youtube Music URL** in the pop-up window and hit "OK"
 
 The Youtube video will download into the `~/Downloads` folder as a `.wav` audio file.
