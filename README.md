@@ -50,7 +50,7 @@
   
 2. Install the `zenity` package
 
-        scoop install https://ncruces.github.io/scoop/zenity.json
+        scoop install ncruces_scoop/zenity
 
 3. Install ffmpeg for media conversion
 
