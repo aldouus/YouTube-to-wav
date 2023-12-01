@@ -32,6 +32,10 @@
 
 ### Windows install
 
+#### Install git bash to run the .sh file
+
+[Install here](https://git-scm.com/downloads)
+
 #### Install Scoop 🍨
 
 [Instructions here](https://scoop.sh/)
