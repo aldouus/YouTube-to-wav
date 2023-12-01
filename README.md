@@ -2,7 +2,7 @@
 
 - ✅ MacOS
 - ✅ Windows
-- ☑ Linux (not tested)
+- ⚠️ Linux (not tested)
 
 ### Dependencies
 
