@@ -8,6 +8,8 @@
 
 - `Python ^3.5.0`
 
+[Python download](https://www.python.org/downloads/)
+
 ### MacOS install
 
 #### Install Homebrew 🍺
