@@ -42,7 +42,7 @@
   
 2. Install the `zenity` package
 
-        scoop install zenity
+        scoop install https://ncruces.github.io/scoop/zenity.json
 
 3. Install ffmpeg for audio conversion
 
