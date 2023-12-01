@@ -6,7 +6,7 @@
 
 ### Dependencies
 
-- `Python ^3.12.0`
+- `Python ^3.5.0`
 
 ### How to install
 
