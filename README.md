@@ -10,7 +10,7 @@
 
 ### MacOS install
 
-#### Install Homebrew
+#### Install Homebrew 🍺
 
 [Instructions here](https://brew.sh/)
 
@@ -24,13 +24,13 @@
 
         brew install zenity
 
-3. Install ffmpeg
+3. Install ffmpeg for media conversion
 
         brew install ffmpeg
 
 ### Windows install
 
-#### Install Scoop
+#### Install Scoop 🍨
 
 [Instructions here](https://scoop.sh/)
 
@@ -44,7 +44,7 @@
 
         scoop install https://ncruces.github.io/scoop/zenity.json
 
-3. Install ffmpeg for audio conversion
+3. Install ffmpeg for media conversion
 
         scoop install ffmpeg
    
