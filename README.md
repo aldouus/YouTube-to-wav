@@ -26,7 +26,7 @@
 
         brew install zenity
 
-3. Install ffmpeg for media conversion
+3. Install `ffmpeg` for media conversion
 
         brew install ffmpeg
 
@@ -52,7 +52,7 @@
 
         scoop install ncruces_scoop/zenity
 
-3. Install ffmpeg for media conversion
+3. Install `ffmpeg` for media conversion
 
         scoop install ffmpeg
    
