@@ -28,6 +28,8 @@
 
         brew install ffmpeg
 
+<br/>
+
 ### Windows install
 
 #### Install Scoop 🍨
